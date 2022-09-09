@@ -1,0 +1,12 @@
+#! /bin/php
+<?php
+
+// print("Conversion Tool\n");
+
+// print_r($argv); 
+
+if (count($argv) != 2) {
+    die("Usage: md5 \"<string>\"\n");
+}
+
+printf(md5($argv[1])."\n");
