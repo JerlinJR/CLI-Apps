@@ -4,7 +4,7 @@ import base64
 import sys
 
 if(len(sys.argv) != 3 or sys.argv[1] == "--help"):
-    print("Usage : b64 {-e|-d} \"<string>\"")
+    print("Usage : b64 {-e|-d} \"<string>\"") 
 
 path = sys.argv[0]
 option = sys.argv[1]

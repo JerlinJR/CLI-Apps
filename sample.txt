@@ -1,0 +1,32 @@
+General
+Complete name                            : IMG_20220809_181626.jpg
+Format                                   : JPEG
+File size                                : 4.79 MiB
+
+Image
+Format                                   : JPEG
+Width                                    : 4 624 pixels
+Height                                   : 3 472 pixels
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+Stream size                              : 4.79 MiB (100%)
+
+
+General
+Complete name                            : IMG_20220809_181626.jpg
+Format                                   : JPEG
+File size                                : 4.79 MiB
+
+Image
+Format                                   : JPEG
+Width                                    : 4 624 pixels
+Height                                   : 3 472 pixels
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+Stream size                              : 4.79 MiB (100%)
+
+
